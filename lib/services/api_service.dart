@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ApiService {
-  static const String _serverUrl = 'https://twenty-latest-accommodation-styles.trycloudflare.com';
+  static const String _serverUrl = 'https://press-frames-duncan-supplemental.trycloudflare.com';
   static String _baseUrl = _serverUrl;
 
   static Future<void> init() async {
